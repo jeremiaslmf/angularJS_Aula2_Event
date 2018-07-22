@@ -1,5 +1,5 @@
 # angularJS_Aula2_Event
 
-Framework utilizado - AngularJS
+Frameworks utilizados - AngularJS, Bootstrap.
 
 Projeto Controle de Eventos: CRUD básico utilizando framework AngularJS demonstrando um sintético controle de eventos.

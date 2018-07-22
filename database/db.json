@@ -1,0 +1,43 @@
+{
+  "usuarios": [
+    {
+      "login": "juliano",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "login": "teste",
+      "senha": "123",
+      "id": 2
+    },
+    {
+      "login": "marcelo",
+      "senha": "123",
+      "id": 3
+    },
+    {
+      "login": "jeremias",
+      "senha": "123",
+      "id": 4
+    }
+  ],
+  "eventos": [
+    {
+      "titulo": "Teste 1",
+      "usuarioId": 1,
+      "usuarioLogin": "juliano",
+      "descricao": "Teste 1",
+      "organizador": "Teste 1",
+      "id": 1
+    },
+    {
+      "titulo": "jeremias",
+      "descricao": "123",
+      "usuarioId": 4,
+      "usuarioLogin": "jeremias",
+      "organizador": "Produto",
+      "id": 2
+    }
+  ],
+  "produtor": []
+}
